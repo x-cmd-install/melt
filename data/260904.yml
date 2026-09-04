@@ -7,7 +7,7 @@ about:
   head: 0149348
   archived: false
   latestVersion: v0.6.2
-  collectedAt: 2026-09-04T19:48:55Z
+  collectedAt: 2026-09-04T20:50:10Z
 timeline:
   created: 2022-03-07
   lastCommit: 2026-08-12
@@ -81,5 +81,28 @@ total:
   openIssue: 1
   commit: 216
 ---
+path: /home/runner/.x-repo/github.com/charmbracelet/melt
+collectedAt: 2026-09-04T20:50:11Z
+loc:
+  Go:
+    code: 617
+    comments: 18
+    blanks: 100
+    files: 4
+  Dockerfile:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 96
+    blanks: 55
+    files: 2
+total:
+  code: 660
+  comments: 124
+  blanks: 164
+  files: 7
 ---
 
