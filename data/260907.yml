@@ -5,7 +5,7 @@ about:
   head: 0149348
   archived: false
   latestVersion: "v0.6.2"
-  collectedAt: 2026-09-07T04:49:43Z
+  collectedAt: 2026-09-07T19:32:50Z
 timeline:
   created: 2022-03-07
   lastCommit: 2026-08-12
@@ -80,7 +80,7 @@ total:
   commit: 216
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/melt
-collectedAt: 2026-09-07T04:49:44Z
+collectedAt: 2026-09-07T19:32:51Z
 loc:
   Go:
     code: 617
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:49:44+00:00
+  collectedAt: 2026-09-07T19:32:52+00:00
   platform:
     darwin/arm64:
       name:  melt_0.6.2_Darwin_arm64.tar.gz
