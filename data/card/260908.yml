@@ -5,7 +5,7 @@ about:
   head: 0149348
   archived: false
   latestVersion: "v0.6.2"
-  collectedAt: 2026-09-08T02:09:10Z
+  collectedAt: 2026-09-08T04:50:27Z
 timeline:
   created: 2022-03-07
   lastCommit: 2026-08-12
@@ -80,7 +80,7 @@ total:
   commit: 216
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/melt
-collectedAt: 2026-09-08T02:09:10Z
+collectedAt: 2026-09-08T04:50:27Z
 loc:
   Go:
     code: 617
