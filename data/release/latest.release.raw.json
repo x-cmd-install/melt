@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6400,
       "digest": null,
-      "download_count": 108,
+      "download_count": 109,
       "created_at": "2024-08-15T18:43:02Z",
       "updated_at": "2024-08-15T18:43:02Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3200,
       "digest": null,
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2024-08-15T18:43:03Z",
       "updated_at": "2024-08-15T18:43:03Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/checksums.txt.pem"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": null,
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2024-08-15T18:43:02Z",
       "updated_at": "2024-08-15T18:43:03Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/checksums.txt.sig"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 3346336,
       "digest": null,
-      "download_count": 331,
+      "download_count": 332,
       "created_at": "2024-08-15T18:42:56Z",
       "updated_at": "2024-08-15T18:42:57Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Darwin_arm64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 37855,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2024-08-15T18:43:01Z",
       "updated_at": "2024-08-15T18:43:01Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Darwin_x86_64.tar.gz.sbom.json"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 37855,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:01Z",
       "updated_at": "2024-08-15T18:43:02Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Freebsd_arm64.tar.gz.sbom.json"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 37855,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:00Z",
       "updated_at": "2024-08-15T18:43:00Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Freebsd_armv6.tar.gz.sbom.json"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 37855,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2024-08-15T18:43:00Z",
       "updated_at": "2024-08-15T18:43:00Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Freebsd_armv7.tar.gz.sbom.json"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 37779,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2024-08-15T18:43:01Z",
       "updated_at": "2024-08-15T18:43:01Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Freebsd_i386.tar.gz.sbom.json"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 37931,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:01Z",
       "updated_at": "2024-08-15T18:43:01Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Freebsd_x86_64.tar.gz.sbom.json"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 3234056,
       "digest": null,
-      "download_count": 51,
+      "download_count": 53,
       "created_at": "2024-08-15T18:42:56Z",
       "updated_at": "2024-08-15T18:42:56Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Linux_arm64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 37703,
       "digest": null,
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2024-08-15T18:43:01Z",
       "updated_at": "2024-08-15T18:43:02Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Linux_arm64.tar.gz.sbom.json"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 37703,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2024-08-15T18:43:01Z",
       "updated_at": "2024-08-15T18:43:01Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Linux_armv7.tar.gz.sbom.json"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 37627,
       "digest": null,
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2024-08-15T18:43:02Z",
       "updated_at": "2024-08-15T18:43:02Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Linux_i386.tar.gz.sbom.json"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 3420615,
       "digest": null,
-      "download_count": 2425,
+      "download_count": 2427,
       "created_at": "2024-08-15T18:42:55Z",
       "updated_at": "2024-08-15T18:42:56Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Linux_x86_64.tar.gz"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 37779,
       "digest": null,
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2024-08-15T18:43:01Z",
       "updated_at": "2024-08-15T18:43:01Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Linux_x86_64.tar.gz.sbom.json"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 37779,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:00Z",
       "updated_at": "2024-08-15T18:43:00Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Netbsd_arm64.tar.gz.sbom.json"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 37779,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2024-08-15T18:43:00Z",
       "updated_at": "2024-08-15T18:43:00Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Netbsd_armv6.tar.gz.sbom.json"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 37779,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:00Z",
       "updated_at": "2024-08-15T18:43:00Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Netbsd_armv7.tar.gz.sbom.json"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 37703,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:02Z",
       "updated_at": "2024-08-15T18:43:02Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Netbsd_i386.tar.gz.sbom.json"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 37855,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2024-08-15T18:43:02Z",
       "updated_at": "2024-08-15T18:43:02Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Netbsd_x86_64.tar.gz.sbom.json"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 37855,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:00Z",
       "updated_at": "2024-08-15T18:43:00Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Openbsd_arm64.tar.gz.sbom.json"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 37855,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2024-08-15T18:43:00Z",
       "updated_at": "2024-08-15T18:43:00Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Openbsd_armv6.tar.gz.sbom.json"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 37855,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2024-08-15T18:43:00Z",
       "updated_at": "2024-08-15T18:43:00Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Openbsd_armv7.tar.gz.sbom.json"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 37779,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:02Z",
       "updated_at": "2024-08-15T18:43:02Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Openbsd_i386.tar.gz.sbom.json"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 37931,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:02Z",
       "updated_at": "2024-08-15T18:43:02Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Openbsd_x86_64.tar.gz.sbom.json"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 3393018,
       "digest": null,
-      "download_count": 1312,
+      "download_count": 1313,
       "created_at": "2024-08-15T18:42:55Z",
       "updated_at": "2024-08-15T18:42:55Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Windows_i386.zip"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 39475,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2024-08-15T18:43:01Z",
       "updated_at": "2024-08-15T18:43:01Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Windows_i386.zip.sbom.json"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 3511593,
       "digest": null,
-      "download_count": 1440,
+      "download_count": 1442,
       "created_at": "2024-08-15T18:42:55Z",
       "updated_at": "2024-08-15T18:42:55Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Windows_x86_64.zip"
@@ -2407,7 +2407,7 @@
       "state": "uploaded",
       "size": 39633,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2024-08-15T18:43:01Z",
       "updated_at": "2024-08-15T18:43:01Z",
       "browser_download_url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Windows_x86_64.zip.sbom.json"
