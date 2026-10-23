@@ -45,12 +45,12 @@ Total: **620** lines of code across **7** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last180d | 2026-04-25 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 360d | 2025-10-27 | 0 | 10 | 2 | 0 | 0 | 11 |
-| last720d | 2024-11-01 | 0 | 47 | 3 | 0 | 1 | 49 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last180d | 2026-04-26 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 360d | 2025-10-28 | 0 | 10 | 2 | 0 | 0 | 11 |
+| last720d | 2024-11-02 | 0 | 47 | 3 | 0 | 1 | 48 |
 
 ## Release assets
 
@@ -125,6 +125,15 @@ Total: **620** lines of code across **7** files in the top 5 languages.
 | [melt_0.6.2_x86.apk](https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_x86.apk) | 3.2 MiB | `other` |
 | [melt_0.6.2_x86_64.apk](https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_x86_64.apk) | 3.4 MiB | `other` |
 
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/melt). **8** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.6.2` | ✅ latest |
+| Nix unstable | `0.6.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for melt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `melt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -134,4 +143,4 @@ Install metadata for melt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:52:47Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:59:11Z._
